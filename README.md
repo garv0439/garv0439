@@ -1,4 +1,4 @@
-![logo](https://github.com/garv0439/garv0439/blob/main/Orange%20%26%20Yellow%20Geometric%20Technology%20Linkdin%20Banner%20(1).png)
+![logo](https://github.com/garv0439/garv0439/blob/main/Purple%20and%20Pink%20Bold%20Business%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Garv Kadia</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
