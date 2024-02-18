@@ -1,4 +1,4 @@
-![logo]([https://github.com/garv0439/garv0439/blob/main/Purple%20and%20Pink%20Bold%20Business%20LinkedIn%20Article%20Cover%20Image.png](https://github.com/garv0439/garv0439/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png))
+![logo](https://github.com/garv0439/garv0439/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Garv Kadia</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
