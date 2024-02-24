@@ -31,5 +31,3 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garv0439&theme=shades-of-purple" alt="GitHub Streak" /></a>
 
-<p> href="https://github-readme-streak-stats.herokuapp.com/?user=kattni" </p>
-
