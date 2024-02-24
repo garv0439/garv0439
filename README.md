@@ -29,5 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garv0439&show_icons=true&locale=en" alt="garv0439" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garv0439&theme=shades-of-purple" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garv0439&theme=shades-of-purple" alt="GitHub Streak" /></a>
+
+<p> href="https://github-readme-streak-stats.herokuapp.com/?user=kattni" </p>
 
