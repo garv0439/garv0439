@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C language,C++ language,HTML,CSS,Javascript,Java,SQL Queries**
 
-- 📫 How to reach me **garvkadia@gmail.com**
+- 📫 How to reach me **garvkadia@gmail.com**  <a href="garvkadia-resume-website.netlify.app" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
