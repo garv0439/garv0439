@@ -13,8 +13,8 @@
 - 💬 Ask me about **C language,C++ language,HTML,CSS,Javascript,Java,SQL Queries**
 
 - 📫 How to reach me-
-**garvkadia@gmail.com**  <a href="garvkadia-resume-website.netlify.app" target="blank">  garvkadia-resume-website</a>
-
+**garvkadia@gmail.com**  [garvkadia-resume-website.netlify.app](garvkadia-resume-website.netlify.app)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/garv-kadia-21744823a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garv-kadia-21744823a/" height="30" width="40" /></a>
