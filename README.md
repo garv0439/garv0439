@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/garv-kadia-21744823a/](https://www.linkedin.com/in/garv-kadia-21744823a/)
 
-- 💬 Ask me about **C language,C++ language,HTML,CSS,Javascript,React.Js,DSA,Java,SQL Queries**
+- 💬 Ask me about **HTML,CSS,Javascript,React.Js,DSA,Java,SQL Queries,C language,C++ language**
 
 - 📫 How to reach me-
 **garvkadia@gmail.com** 
