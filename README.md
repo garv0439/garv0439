@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garv0439&show_icons=true&locale=en&theme=shades-of-purple" alt="garv0439" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garv0439"+ 15 alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garv0439"+ "15" alt="GitHub Streak" /></a>
 <!--   &theme=shades-of-purple   <= add after garv0439 -->  
 
 <!--
