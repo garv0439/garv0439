@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garv0439&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 👨‍💻 All of my projects are available at [Linkdin](https://www.linkedin.com/in/garv-kadia-21744823a/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/garv-kadia-21744823a/)
 
 - 💬 Ask me about **HTML,CSS,Javascript,React.Js,DSA,Java,SQL Queries,C language,C++ language**
 
